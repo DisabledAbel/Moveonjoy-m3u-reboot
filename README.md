@@ -4,7 +4,6 @@ MoveOnJoy is a service provider offering access to live TV channels across vario
 
 For added flexibility, this repository provides an M3U playlist featuring MoveOnJoy's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists.
 
-You can view the full list of channels provided by MoveOnJoy 
 
 You can view the full list of channels provided by MoveOnJoy [Here](https://github.com/DisabledAbel/Moveonjoy-m3u-reboot/blob/main/Channel-list)
 
