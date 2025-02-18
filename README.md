@@ -6,7 +6,7 @@ For added flexibility, this repository provides an M3U playlist featuring MoveOn
 
 You can view the full list of channels provided by MoveOnJoy 
 
-You can view the full list of channels provided by MoveOnJoy [here](https://github.com/DisabledAbel/Moveonjoy-m3u-reboot/blob/main/Channel-list]
+You can view the full list of channels provided by MoveOnJoy https://github.com/DisabledAbel/Moveonjoy-m3u-reboot/blob/main/Channel-list
 
 
 ## How to Use the M3U Playlist
