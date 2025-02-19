@@ -16,7 +16,7 @@ To use M3U playlist in your IPTV application, look for the option to import an M
     http://m3u4u.com/m3u/4z2xnjk284a2qek9yv15
 ### open in dropbox below 
 
-[[![Open in Dropbox](https://img.shields.io/badge/Open%20in%20Dropbox-blue?style=for-the-badge&logo=dropbox)](https://www.dropbox.com/scl/fi/j118ojnr54hfsugugo47s/m3u4u-141326-596733-Playlist.m3u?rlkey=ho24qiha8bcxz435xft5q4arq&st=po3mewrk&dl=1)
+[![Open in Dropbox](https://img.shields.io/badge/Open%20in%20Dropbox-blue?style=for-the-badge&logo=dropbox)](https://www.dropbox.com/scl/fi/j118ojnr54hfsugugo47s/m3u4u-141326-596733-Playlist.m3u?rlkey=ho24qiha8bcxz435xft5q4arq&st=po3mewrk&dl=1)
 
 
 ## Disclaimer:
