@@ -22,8 +22,6 @@ To use M3U playlist in your IPTV application, look for the option to import an M
     <!-- Copy-to-Clipboard Button for XML -->
     <h3>Copy XML Link</h3>
     <input type="text" id="xmlLink" value="http://m3u4u.com/xml/4z2xnjk284a2qek9yv15" 
-        }
-    </script>
 </body>
 </html>
 
