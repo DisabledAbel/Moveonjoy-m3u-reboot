@@ -18,7 +18,7 @@ To use M3U playlist in your IPTV application, look for the option to import an M
 ### EPG URL
     http://m3u4u.com/epg/4z2xnjk284a2qek9yv15
 
-### XML URL
+### XML URL (Ideal for VLC)
     http://m3u4u.com/xml/4z2xnjk284a2qek9yv15
 
 ## Disclaimer:
