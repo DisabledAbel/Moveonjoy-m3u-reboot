@@ -13,10 +13,10 @@ You can view the full list of channels provided by MoveOnJoy [Here](https://gith
 To use M3U playlist in your IPTV application, look for the option to import an M3U playlist within the app's settings. Once you find the import option, simply copy and paste the Playlist URL/EPG URL listed below into the respective fields.
 
 ### Playlist URL
-    https://bit.ly/moj-m3u8
+    https://bitly.cx/O0X0i
 
 ### EPG URL
-    https://bit.ly/moj-epg
+    https://bitly.cx/8yNi
 
 ## Disclaimer:
 
